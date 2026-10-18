@@ -6,7 +6,7 @@ Proyecto Final de Carrera de Bioingeniería (ITBA, 2026).
   <tr><td><b>Autoras</b></td><td>Catalina Jonquieres · Victoria Orsi</td></tr>
   <tr><td><b>Tutora</b></td><td>Victoria Reppucci</td></tr>
   <tr><td><b>Asesor</b></td><td>Juan Pablo Costabel</td></tr>
-  <tr><td><b>Lugar de realización</b></td><td>Instituto Cardiovascular de Buenos Aires (ICBA)</td></tr>
+  <tr><td><b>Institución colaboradora</b></td><td>Instituto Cardiovascular de Buenos Aires (ICBA)</td></tr>
 </table>
 
 
