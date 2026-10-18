@@ -1,0 +1,28 @@
+Miniconda3-latest-Linux-x86_64.sh
+Miniconda3-latest-Linux-x86_64.sh
+
+# Entornos virtuales de Python
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Modelos entrenados
+*.keras
+
+# Historiales de entrenamiento
+*_history.json
+
+# Archivos locales de Jupyter
+.jupyter_ystore.db
+
+# Volcados de memoria (crash dumps)
+core.[0-9]*
+
+# Empaquetado de ICBApp (PyInstaller / Inno Setup) — se regeneran con
+# ICBApp.spec / ICBApp.iss, no hace falta versionarlos (pesan varios GB)
+Códigos/ICBApp/build/
+Códigos/ICBApp/dist/
+Códigos/ICBApp/Output/
