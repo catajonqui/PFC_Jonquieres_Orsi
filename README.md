@@ -23,7 +23,7 @@ Este repositorio contiene:
 
 ## 1. Informe de la tesis
 
-El informe completo se encuentra en [`Proyecto Final de Carrera - Jonquieres, Orsi.pdf`](https://github.com/catajonqui/PFC_Jonquieres_Orsi/blob/main/Proyecto%20Final%20de%20Carrera%20-%20Jonquieres_Orsi.pdf).
+El informe completo se encuentra en [`Proyecto Final de Carrera - Jonquieres, Orsi.pdf`](https://catajonqui.github.io/PFC_Jonquieres_Orsi/Proyecto%20Final%20de%20Carrera%20-%20Jonquieres_Orsi.pdf).
 
 ---
 
