@@ -23,7 +23,7 @@ Este repositorio contiene:
 
 ## 1. Informe de la tesis
 
-El informe completo se encuentra en [`Informe Final PFC - version 5.pdf`](Informe%20Final%20PFC%20-%20version%205.pdf).
+El informe completo se encuentra en [`Informe Final.pdf`](Informe%20Final.pdf).
 
 ---
 
