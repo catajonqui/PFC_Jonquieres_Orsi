@@ -57,7 +57,7 @@ La aplicación se ejecuta localmente y no requiere conexión a internet.
 
 ### Instalación
 
-1. Descargar el instalador [`VentrIA-Setup.exe`](https://github.com/catajonqui/PFC_Orsi_Jonquieres/releases/latest/download/VentrIA-Setup.exe).
+1. Descargar el instalador [`VentrIA-Setup.exe`](https://github.com/catajonqui/PFC_Jonquieres_Orsi/releases/download/v1.0/VentrIA-Setup.exe).
 2. Ejecutarlo y seguir los pasos del asistente de instalación.
 3. Abrir VentrIA desde el menú Inicio o desde el acceso directo del escritorio.
 
