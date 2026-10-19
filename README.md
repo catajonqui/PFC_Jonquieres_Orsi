@@ -23,7 +23,7 @@ Este repositorio contiene:
 
 ## 1. Informe de la tesis
 
-El informe completo se encuentra en [`Informe Final.pdf`](Informe%20Final.pdf).
+El informe completo se encuentra en [`Proyecto Final de Carrera - Jonquieres, Orsi.pdf`](Proyecto%20Final%20de%20Carrera%20-%20Jonquieres%2C%20Orsi.pdf).
 
 ---
 
